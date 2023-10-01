@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: samplepaper.aux
+Reallocating 'name_of_file' (item size: 1) to 5 items.
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Database file #1: refs.bib
+Too many commas in name 1 of "Gareth James , Daniela Witten , Trevor Hastie , Robert Tibshirani" for entry latexcompanion
+while executing---line 1049 of file plain.bst
+Warning--to sort, need author or key in LoveJonathon2019JGss
+Warning--empty author in LoveJonathon2019JGss
+Too many commas in name 1 of "Gareth James , Daniela Witten , Trevor Hastie , Robert Tibshirani" for entry latexcompanion
+while executing---line 1090 of file plain.bst
+You've used 2 entries,
+            2118 wiz_defined-function locations,
+            510 strings with 4350 characters,
+and the built_in function-call counts, 457 in all, are:
+= -- 41
+> -- 8
+< -- 0
++ -- 5
+- -- 2
+* -- 31
+:= -- 75
+add.period$ -- 5
+call.type$ -- 2
+change.case$ -- 6
+chr.to.int$ -- 0
+cite$ -- 4
+duplicate$ -- 23
+empty$ -- 48
+format.name$ -- 2
+if$ -- 97
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 3
+newline$ -- 12
+num.names$ -- 2
+pop$ -- 10
+preamble$ -- 1
+purify$ -- 5
+quote$ -- 0
+skip$ -- 13
+stack$ -- 0
+substring$ -- 23
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 6
+warning$ -- 2
+while$ -- 3
+width$ -- 3
+write$ -- 21
+(There were 2 error messages)
